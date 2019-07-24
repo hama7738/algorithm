@@ -1,4 +1,4 @@
 ## Purpose
-research Uber AI 
-## Reference
+making algorithm
+## To Do
 https://eng.uber.com/uber-eats-recommending-marketplace/
